@@ -1,4 +1,5 @@
-## Crop Disease Detection on Mobile Devices: Autoencoder vs ResNet
+## Transfer Learning for Ghanaian Crop Disease Detection: A Comparative Study of Autoencoder and ResNet
+
 
 This repository explores the feasibility of using deep learning models for crop disease detection on mobile devices. The project compares the training performance of an autoencoder-based model and a ResNet model, considering factors crucial for mobile deployment:
 
